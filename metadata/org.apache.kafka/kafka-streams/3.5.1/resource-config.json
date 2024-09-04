@@ -1,16 +1,5 @@
 {
-  "resources":{
-  "includes":[{
-    "pattern":"\\Qkafka/kafka-streams-version.properties\\E",
-    "condition": {
-      "typeReachable": "org.apache.kafka.streams.internals.metrics.ClientMetrics"
-    }
-  },
-    {
-      "pattern": "\\Qlibrocksdbjni-\\E.*",
-      "condition": {
-        "typeReachable": "org.rocksdb.RocksDB"
-      }
-    }]},
-  "bundles":[]
+  "resources":{"includes":[{"condition":{"typeReachable":"org.rocksdb.RocksDB"},"pattern":"\\Qlibrocksdbjni-\\E.*"}]},
+  "bundles":[],
+  "globs":[{"condition":{"typeReachable":"org.apache.kafka.streams.internals.metrics.ClientMetrics"},"glob":"kafka/kafka-streams-version.properties"}]
 }

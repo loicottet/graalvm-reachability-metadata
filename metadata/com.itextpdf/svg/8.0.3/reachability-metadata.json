@@ -1,0 +1,12 @@
+{
+  "resources": [
+    {
+      "condition": {
+        "typeReached": "com.itextpdf.svg.css.impl.SvgStyleResolver"
+      },
+      "glob": "com/itextpdf/svg/default.css"
+    }
+  ],
+  
+  "bundles": []
+}

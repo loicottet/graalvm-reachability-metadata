@@ -1,0 +1,23 @@
+{
+  "reflection": [
+    {
+      "condition": {
+        "typeReached": "graphql.GraphQL"
+      },
+      "type": "graphql.schema.DataFetchingEnvironmentImpl",
+      "methods": [
+        {
+          "name": "getLocale",
+          "parameterTypes": []
+        }
+      ]
+    }
+  ],
+  "resources": [],
+  
+  "bundles": [
+    {
+      "name": "graphql.validation.ValidationMessages"
+    }
+  ]
+}

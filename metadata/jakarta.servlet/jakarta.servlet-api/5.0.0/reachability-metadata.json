@@ -1,0 +1,24 @@
+{
+  "resources": [],
+  
+  "bundles": [
+    {
+      "condition": {
+        "typeReached": "jakarta.servlet.GenericServlet"
+      },
+      "name": "jakarta.servlet.LocalStrings",
+      "locales": [
+        "und"
+      ]
+    },
+    {
+      "condition": {
+        "typeReached": "jakarta.servlet.http.HttpServlet"
+      },
+      "name": "jakarta.servlet.http.LocalStrings",
+      "locales": [
+        "und"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "reflection": [
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.lang.Boolean;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.lang.Byte;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.lang.Double;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.lang.Float;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.lang.Integer;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.lang.Long;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.lang.Object;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.lang.Short;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.lang.String;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.math.BigDecimal;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.math.BigInteger;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.sql.Date;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.sql.Time;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.sql.Timestamp;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.time.Instant;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.time.LocalDate;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.time.LocalDateTime;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.time.LocalTime;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.time.OffsetDateTime;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.time.OffsetTime;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Ljava.util.UUID;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Lorg.jooq.Geography;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Lorg.jooq.Geometry;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Lorg.jooq.JSON;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Lorg.jooq.JSONB;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Lorg.jooq.Record;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Lorg.jooq.Result;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Lorg.jooq.RowId;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Lorg.jooq.XML;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Lorg.jooq.types.DayToSecond;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Lorg.jooq.types.UByte;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Lorg.jooq.types.UInteger;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Lorg.jooq.types.ULong;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Lorg.jooq.types.UShort;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Lorg.jooq.types.YearToMonth;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "[Lorg.jooq.types.YearToSecond;"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.DefaultDSLContext"
+      },
+      "type": "org.jooq.impl.SQLDataType"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.DefaultDataType"
+      },
+      "type": "org.jooq.impl.SQLDataType"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "org.jooq.impl.SQLDataType",
+      "allPublicFields": true
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "org.jooq.util.cubrid.CUBRIDDataType"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "org.jooq.util.derby.DerbyDataType"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "org.jooq.util.firebird.FirebirdDataType"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "org.jooq.util.h2.H2DataType"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "org.jooq.util.hsqldb.HSQLDBDataType"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "org.jooq.util.ignite.IgniteDataType"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "org.jooq.util.mariadb.MariaDBDataType"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "org.jooq.util.mysql.MySQLDataType"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "org.jooq.util.postgres.PostgresDataType"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "org.jooq.util.sqlite.SQLiteDataType"
+    },
+    {
+      "condition": {
+        "typeReached": "org.jooq.impl.SQLDataType"
+      },
+      "type": "org.jooq.util.yugabytedb.YugabyteDBDataType"
+    }
+  ]
+}

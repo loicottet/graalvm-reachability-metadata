@@ -1,0 +1,82 @@
+{
+  "reflection": [
+    {
+      "condition": {
+        "typeReached": "jakarta.activation.MailcapCommandMap"
+      },
+      "type": "com.sun.mail.handlers.image_gif",
+      "allDeclaredConstructors": true
+    },
+    {
+      "condition": {
+        "typeReached": "jakarta.activation.MailcapCommandMap"
+      },
+      "type": "com.sun.mail.handlers.image_jpeg",
+      "allDeclaredConstructors": true
+    },
+    {
+      "condition": {
+        "typeReached": "jakarta.activation.MailcapCommandMap"
+      },
+      "type": "com.sun.mail.handlers.message_rfc822",
+      "allDeclaredConstructors": true
+    },
+    {
+      "condition": {
+        "typeReached": "jakarta.activation.MailcapCommandMap"
+      },
+      "type": "com.sun.mail.handlers.multipart_mixed",
+      "allDeclaredConstructors": true
+    },
+    {
+      "condition": {
+        "typeReached": "jakarta.activation.MailcapCommandMap"
+      },
+      "type": "com.sun.mail.handlers.text_html",
+      "allDeclaredConstructors": true
+    },
+    {
+      "condition": {
+        "typeReached": "jakarta.activation.MailcapCommandMap"
+      },
+      "type": "com.sun.mail.handlers.text_plain",
+      "allDeclaredConstructors": true
+    },
+    {
+      "condition": {
+        "typeReached": "jakarta.activation.MailcapCommandMap"
+      },
+      "type": "com.sun.mail.handlers.text_xml",
+      "allDeclaredConstructors": true
+    },
+    {
+      "condition": {
+        "typeReached": "jakarta.mail.Session"
+      },
+      "type": "com.sun.mail.smtp.SMTPTransport",
+      "allDeclaredConstructors": true
+    }
+  ],
+  "resources": [
+    {
+      "glob": "META-INF/gfprobe-provider.xml"
+    },
+    {
+      "glob": "META-INF/hk2-locator/default"
+    },
+    {
+      "glob": "META-INF/javamail.charset.map"
+    },
+    {
+      "glob": "META-INF/javamail.default.address.map"
+    },
+    {
+      "glob": "META-INF/javamail.default.providers"
+    },
+    {
+      "glob": "META-INF/mailcap"
+    }
+  ],
+  
+  "bundles": []
+}

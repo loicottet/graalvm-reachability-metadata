@@ -1,20 +1,5 @@
 {
-  "resources": {
-    "includes": [
-      {
-        "pattern": "\\Qkafka/kafka-version.properties\\E",
-        "condition": {
-          "typeReachable": "org.apache.kafka.common.utils.AppInfoParser"
-        }
-      }
-    ]
-  },
-  "bundles": [
-    {
-      "name": "sun.security.util.Resources",
-      "classNames": [
-        "sun.security.util.Resources"
-      ]
-    }
-  ]
+  "resources":{"includes":[]},
+  "bundles":[{"name":"sun.security.util.Resources","classNames":["sun.security.util.Resources"]}],
+  "globs":[{"condition":{"typeReachable":"org.apache.kafka.common.utils.AppInfoParser"},"glob":"kafka/kafka-version.properties"}]
 }
