@@ -1,6 +1,1 @@
-[
-  {
-    "condition":{"typeReachable":"com.zaxxer.hikari.pool.ProxyConnection$ClosedConnection"},
-    "interfaces":["java.sql.Connection"]
-  }
-]
+[{"condition":{"typeReachable":"com.zaxxer.hikari.pool.ProxyConnection$ClosedConnection"},"interfaces":["java.sql.Connection"]}]

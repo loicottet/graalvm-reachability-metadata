@@ -1,5 +1,1 @@
-[
-  "jni-config.json",
-  "proxy-config.json",
-  "reflect-config.json"
-]
+[ "proxy-config.json", "reachability-metadata.json" ]
